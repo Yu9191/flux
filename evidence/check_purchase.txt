@@ -1,0 +1,20 @@
+
+=== 'checkVerified(_:)' at 0x1032f9b10 ===
+  sub_1005E5954 at 0x1005e5954 size=340
+  -> decompiled
+
+=== 'loadTransationId()' at 0x1032f9b50 ===
+  sub_1005E5F34 at 0x1005e5f34 size=300
+  -> decompiled
+
+=== 'checkPurcahse(ignoreCache:)' at 0x1032f9bb0 ===
+  sub_1005E7414 at 0x1005e7414 size=2188
+  -> decompiled
+
+=== 'setupStateWithPurchase()' at 0x1032f9d00 ===
+  sub_1005E8718 at 0x1005e8718 size=2804
+  -> decompiled
+
+=== 'listenForTransactionUpdates()' at 0x1032f9f80 ===
+  sub_1005E4CC0 at 0x1005e4cc0 size=464
+  -> decompiled

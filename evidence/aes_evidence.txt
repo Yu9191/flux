@@ -1,0 +1,95 @@
+
+=== 'Decryption failed' at 0x1032f92e0 ===
+  XREF 0x1005bb30c in sub_1005BA5B8 (start:0x1005ba5b8 size:5532)
+  XREF 0x1005bcccc in sub_1005BC064 (start:0x1005bc064 size:5336)
+  XREF 0x1005be654 in sub_1005BD958 (start:0x1005bd958 size:5324)
+  XREF 0x1005c0088 in sub_1005BF36C (start:0x1005bf36c size:5636)
+  XREF 0x1005c1af0 in sub_1005C0DC8 (start:0x1005c0dc8 size:5668)
+  XREF 0x1005c3508 in sub_1005C2808 (start:0x1005c2808 size:5328)
+  XREF 0x1005c4e34 in sub_1005C40F8 (start:0x1005c40f8 size:5404)
+  XREF 0x1005c687c in sub_1005C5B60 (start:0x1005c5b60 size:5636)
+  XREF 0x1005d52a0 in sub_1005D45DC (start:0x1005d45dc size:5452)
+
+=== 'Encrypted string' at 0x1032f9300 ===
+  XREF 0x1005bb3cc in sub_1005BA5B8 (start:0x1005ba5b8 size:5532)
+  XREF 0x1005bcd90 in sub_1005BC064 (start:0x1005bc064 size:5336)
+  XREF 0x1005be718 in sub_1005BD958 (start:0x1005bd958 size:5324)
+  XREF 0x1005c0148 in sub_1005BF36C (start:0x1005bf36c size:5636)
+  XREF 0x1005c1bb0 in sub_1005C0DC8 (start:0x1005c0dc8 size:5668)
+  XREF 0x1005c35cc in sub_1005C2808 (start:0x1005c2808 size:5328)
+  XREF 0x1005c4ef8 in sub_1005C40F8 (start:0x1005c40f8 size:5404)
+  XREF 0x1005c693c in sub_1005C5B60 (start:0x1005c5b60 size:5636)
+  XREF 0x1005d5360 in sub_1005D45DC (start:0x1005d45dc size:5452)
+
+=== 'Invalid base64' at 0x1032f9260 ===
+  XREF 0x1005baf10 in sub_1005BA5B8 (start:0x1005ba5b8 size:5532)
+  XREF 0x1005bc9a4 in sub_1005BC064 (start:0x1005bc064 size:5336)
+  XREF 0x1005be298 in sub_1005BD958 (start:0x1005bd958 size:5324)
+  XREF 0x1005bfcd4 in sub_1005BF36C (start:0x1005bf36c size:5636)
+  XREF 0x1005c1730 in sub_1005C0DC8 (start:0x1005c0dc8 size:5668)
+  XREF 0x1005c3148 in sub_1005C2808 (start:0x1005c2808 size:5328)
+  XREF 0x1005c4a40 in sub_1005C40F8 (start:0x1005c40f8 size:5404)
+  XREF 0x1005c64c8 in sub_1005C5B60 (start:0x1005c5b60 size:5636)
+  XREF 0x1005d4f1c in sub_1005D45DC (start:0x1005d45dc size:5452)
+
+FUNC: +[SSZipArchive createZipFileAtPath:withContentsOfDirectory:keepParentDirectory:compressionLevel:password:AES:progressHandler:] at 0x1005ae5fc
+
+FUNC: +[SSZipArchive createZipFileAtPath:withContentsOfDirectory:keepParentDirectory:compressionLevel:password:AES:progressHandler:keepSymlinks:] at 0x1005aeb90
+
+FUNC: -[SSZipArchive writeSymlinkFileAtPath:withFileName:compressionLevel:password:AES:] at 0x1005aef68
+
+FUNC: -[SSZipArchive writeFileAtPath:withFileName:compressionLevel:password:AES:] at 0x1005af498
+
+FUNC: -[SSZipArchive writeData:filename:compressionLevel:password:AES:] at 0x1005af650
+
+FUNC: _$s10Accelerate6vImageO4SizeV5width6heightAESi_SitcfC at 0x102e10908
+
+FUNC: _$s7Network10NWEndpointO4HostOyAESScfC at 0x102e121f8
+
+FUNC: _$s7Network10NWEndpointO4PortV8rawValueAESgs6UInt16V_tcfC at 0x102e12210
+
+FUNC: _$s7SwiftUI15GraphicsContextV6FilterV10brightnessyAESdFZ at 0x102e12d50
+
+FUNC: _$s7SwiftUI15GraphicsContextV6FilterV14alphaThreshold3min3max5colorAESd_SdAA5ColorVtFZ at 0x102e12d68
+
+FUNC: _$s7SwiftUI18LocalizedStringKeyV0D13InterpolationV15literalCapacity18interpolationCountAESi_SitcfC at 0x102e1341c
+
+FUNC: _$s7SwiftUI4EdgeO3SetV8rawValueAEs4Int8V_tcfC at 0x102e13b60
+
+FUNC: _$s7SwiftUI6ShaderV8ArgumentV6_floatyAESfFZ at 0x102e14964
+
+FUNC: _$s7SwiftUI6ShaderV8ArgumentV7_float2yAESf_SftFZ at 0x102e14970
+
+FUNC: _$s7SwiftUI9TextFieldVA2A0C0VRszrlE_4text6promptACyAEGqd___AA7BindingVySSGAESgtcSyRd__lufC at 0x102e14d9c
+
+FUNC: _$s7SwiftUI9TextFieldVA2A0C0VRszrlE_5value6format6promptACyAEGqd___AA7BindingVy11FormatInputQyd_0_Gqd_0_AESgtcSyRd__10Foundation09ParseableI5StyleRd_0_SS0I6OutputRtd_0_r0_lufC at 0x102e14da8
+
+FUNC: _$s8CloudKit12CKSyncEngineC13ConfigurationV8database18stateSerialization8delegateAESo10CKDatabaseC_AC5StateC0H0VSgAA0cD8Delegate_ptcfC at 0x102e14ec8
+
+FUNC: _$sSo22CMFormatDescriptionRefa9CoreMediaE0E7SubTypeV8rawValueAEs6UInt32V_tcfC at 0x102e16d64
+
+FUNC: _CCCrypt at 0x102e18438
+
+FUNC: _CCCryptorCreate at 0x102e18444
+
+FUNC: _CCCryptorRelease at 0x102e18450
+
+FUNC: _CCCryptorUpdate at 0x102e1845c
+
+FUNC: _objc_msgSend$createZipFileAtPath:withContentsOfDirectory:keepParentDirectory:compressionLevel:password:AES:progressHandler: at 0x102e1cbe0
+
+FUNC: _objc_msgSend$writeFileAtPath:withFileName:compressionLevel:password:AES: at 0x102e228e0
+
+FUNC: _objc_msgSend$writeSymlinkFileAtPath:withFileName:compressionLevel:password:AES: at 0x102e22940
+STUB: _CCCrypt at 0x102e18438
+STUB: _CCCrypt at 0x102e1843c
+STUB: _CCCrypt at 0x102e18440
+STUB: _CCCryptorCreate at 0x102e18444
+STUB: _CCCryptorCreate at 0x102e18448
+STUB: _CCCryptorCreate at 0x102e1844c
+STUB: _CCCryptorRelease at 0x102e18450
+STUB: _CCCryptorRelease at 0x102e18454
+STUB: _CCCryptorRelease at 0x102e18458
+STUB: _CCCryptorUpdate at 0x102e1845c
+STUB: _CCCryptorUpdate at 0x102e18460
+STUB: _CCCryptorUpdate at 0x102e18464

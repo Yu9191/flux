@@ -1,0 +1,9 @@
+=== Dumping AES Key (32 bytes) ===
+[REDACTED — 32 轮 XOR 推导出 32 字符 ASCII Key，AES-256]
+KEY HEX: [REDACTED]
+KEY ASCII: [REDACTED]
+
+=== Dumping AES IV (16 bytes) ===
+[REDACTED — 16 轮 XOR 推导出 16 字符 ASCII IV，AES-CBC]
+IV HEX: [REDACTED]
+IV ASCII: [REDACTED]

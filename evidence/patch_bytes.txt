@@ -1,0 +1,4 @@
+VA 0x1005e7b64: 9f060071  asm: CMP             W20, #1
+VA 0x1005e7b68: 01070054  asm: B.NE            loc_1005E7C48
+VA 0x1005e7a60: 1f040071  asm: CMP             W0, #1
+VA 0x1005e7a64: 400b0054  asm: B.EQ            loc_1005E7BCC

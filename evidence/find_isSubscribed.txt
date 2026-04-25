@@ -1,0 +1,30 @@
+setupStateWithPurchase: 0x1005e8718 - 0x1005e920c
+
+PUB:  0x1005e8778  BL              _$s7Combine9PublishedV18_enclosingInstance7wrapped7storagexqd___s24ReferenceWritableKeyPathCyqd__xGAHyqd__ACyxGGtcRld__CluigZ; static Published.subscript.getter
+STR:  0x1005e8824  ADRL            X8, aPro; "PRO 限时免费试用中"
+PUB:  0x1005e8898  BL              _$s7Combine9PublishedV18_enclosingInstance7wrapped7storagexqd___s24ReferenceWritableKeyPathCyqd__xGAHyqd__ACyxGGtcRld__CluisZ; static Published.subscript.setter
+PUB:  0x1005e8900  BL              _$s7Combine9PublishedV18_enclosingInstance7wrapped7storagexqd___s24ReferenceWritableKeyPathCyqd__xGAHyqd__ACyxGGtcRld__CluisZ; static Published.subscript.setter
+STRB: 0x1005e8a08  STRB            WZR, [X22,#0x1A0]
+PUB:  0x1005e8dfc  BL              _$s7Combine9PublishedV18_enclosingInstance7wrapped7storagexqd___s24ReferenceWritableKeyPathCyqd__xGAHyqd__ACyxGGtcRld__CluisZ; static Published.subscript.setter
+STRB: 0x1005e8e24  STRB            W8, [X22,#0x1A1]
+PUB:  0x1005e8e40  BL              _$s7Combine9PublishedV18_enclosingInstance7wrapped7storagexqd___s24ReferenceWritableKeyPathCyqd__xGAHyqd__ACyxGGtcRld__CluisZ; static Published.subscript.setter
+PUB:  0x1005e8f48  BL              _$s7Combine9PublishedV18_enclosingInstance7wrapped7storagexqd___s24ReferenceWritableKeyPathCyqd__xGAHyqd__ACyxGGtcRld__CluisZ; static Published.subscript.setter
+STRB: 0x1005e8f70  STRB            WZR, [X22,#0x1A2]
+PUB:  0x1005e8f8c  BL              _$s7Combine9PublishedV18_enclosingInstance7wrapped7storagexqd___s24ReferenceWritableKeyPathCyqd__xGAHyqd__ACyxGGtcRld__CluisZ; static Published.subscript.setter
+PUB:  0x1005e9038  BL              _$s7Combine9PublishedV18_enclosingInstance7wrapped7storagexqd___s24ReferenceWritableKeyPathCyqd__xGAHyqd__ACyxGGtcRld__CluisZ; static Published.subscript.setter
+PUB:  0x1005e9080  BL              _$s7Combine9PublishedV18_enclosingInstance7wrapped7storagexqd___s24ReferenceWritableKeyPathCyqd__xGAHyqd__ACyxGGtcRld__CluigZ; static Published.subscript.getter
+agexqd___s24ReferenceWritableKeyPathCyqd__xGAHyqd__ACyxGGtcRld__CluigZ; static Published.subscript.getter
+
+=== Global search for isSubscribed setter ===
+0x1005e175c  STRB            W0, [X22,#0x1A1]  func:sub_1005E1730
+0x1005e8e24  STRB            W8, [X22,#0x1A1]  func:sub_1005E8718
+0x100ce35d8  STRB            WZR, [X22,#0x1A1]  func:sub_100CE3234
+0x101c27b5c  STRB            W0, [X21,#0x1A1]  func:sub_101C27534
+0x101c2c324  STRB            W8, [X21,#0x1A1]  func:sub_101C2C22C
+0x101c2c3c8  STRB            W8, [X21,#0x1A1]  func:sub_101C2C22C
+0x101c2c454  STRB            WZR, [X21,#0x1A1]  func:sub_101C2C22C
+0x101c2c474  STRB            WZR, [X21,#0x1A1]  func:sub_101C2C22C
+0x101d1aa24  STRB            WZR, [X19,#0x1A1]  func:sub_101D1A838
+0x101d1b194  STRB            W8, [X20,#0x1A1]  func:sub_101D1B0F8
+0x101dede0c  STRB            W25, [X10,#0x1A1]  func:sub_101DEDD34
+0x101dee018  STRB            W25, [X10,#0x1A1]  func:sub_101DEDF40

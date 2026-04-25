@@ -1,0 +1,61 @@
+STR: /System/Library/Frameworks/StoreKit.framework/StoreKit at 0x100001c50
+STR: /System/Library/Frameworks/_StoreKit_SwiftUI.framework/_StoreKit_SwiftUI at 0x1000029f8
+STR: FlagIsProtected at 0x102f16bbd
+STR: isProgressiveImageRenderingEnabled at 0x1032e3f60
+  XREF 0x103c06aa8 in 
+STR: /purchase/system/detail at 0x1032f9530
+  XREF 0x1005c9810 in sub_1005C97C0
+STR: /purchase/system/hitReport at 0x1032f9690
+  XREF 0x1005c9b70 in sub_1005C97C0
+STR: /purchase/system/info at 0x1032f96b0
+  XREF 0x1005c99c0 in sub_1005C97C0
+STR: /purchase/iap/ping at 0x1032f96d0
+  XREF 0x1005c9988 in sub_1005C97C0
+STR: isProcessingInstruction at 0x103307690
+  XREF 0x103c25400 in 
+STR: _isSubscribed at 0x1033194d3
+  XREF 0x103c33cf0 in 
+STR:  调用成功: isSubscribed= at 0x10331a040
+  XREF 0x100c92d38 in sub_100C92C9C
+STR: isProcessingEvent at 0x1033220d0
+  XREF 0x103c384c8 in 
+STR: FlagIsProtected at 0x10336953c
+  XREF 0x103a6f358 in 
+  XREF 0x103a70258 in 
+STR: isProxy at 0x1034f6ff7
+  XREF 0x103c55e60 in 
+STR: isProgressive at 0x10371f339
+  XREF 0x10374dab0 in 
+STR: isProgressiveDecodingEnabled at 0x10371faf0
+  XREF 0x10374e460 in 
+STR: isProgressiveImageRenderingEnabled at 0x1037204a0
+  XREF 0x10374ee7c in 
+STR: isPro at 0x10372c23b
+  XREF 0x10375f0c8 in 
+  XREF 0x10375f248 in 
+STR: isOEM at 0x10372e159
+  XREF 0x1037653d8 in 
+  XREF 0x103765530 in 
+STR: isSubscribed at 0x10372e16b
+  XREF 0x1037653d8 in 
+  XREF 0x103765530 in 
+STR: expiresDate at 0x10372e178
+  XREF 0x1037653d8 in 
+  XREF 0x103765530 in 
+STR: isProcessingInstruction at 0x10372ff20
+  XREF 0x103767668 in 
+STR: _isSubscribed at 0x1037390ed
+  XREF 0x103774080 in 
+STR: isSubscribed at 0x103739734
+  XREF 0x1037743bc in 
+  XREF 0x1037743f0 in 
+STR: _isProcessing at 0x10373aa97
+  XREF 0x1037757ac in 
+STR: _isProcessing at 0x10373bc82
+  XREF 0x103776af8 in 
+STR: isProcessingEvent at 0x10373d540
+  XREF 0x1037782c8 in 
+STR: _isProcessing at 0x10373e0bb
+  XREF 0x103778e00 in 
+STR: _isProcessing at 0x10373e769
+  XREF 0x1037793d0 in 

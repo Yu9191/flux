@@ -1,0 +1,52 @@
+
+=== Context around 0x100ce35d8 ===
+0x100ce35c4  ADRL            X8, _OBJC_IVAR_$__TtC10Components23MediaResolutionProvider.isResolutionChecked
+0x100ce35c8  LDR             X8, [X8]
+0x100ce35cc  STRB            WZR, [X19,X8]
+0x100ce35d0  ADRP            X8, #_OBJC_IVAR_$__TtC10Components23MediaResolutionProvider._preloadState@PAGE
+0x100ce35d4  LDR             X20, [X8,#_OBJC_IVAR_$__TtC10Components23MediaResolutionProvider._preloadState@PAGEOFF]
+0x100ce35d8  STRB            WZR, [X22,#0x1A1] <<<
+0x100ce35dc  ADD             X0, X22, #0x1A1
+0x100ce35e0  LDR             X21, [SP,#0x150+var_D8]
+0x100ce35e4  MOV             X8, X21
+0x100ce35e8  ADRL            X1, $s10Components18DetailPreloadStateON; type metadata for DetailPreloadState
+0x100ce35ec  ADRL            X1, $s10Components18DetailPreloadStateON; type metadata for DetailPreloadState
+
+=== Context around 0x101c2c454 ===
+0x101c2c440  MOV             W0, #0xFFFFFFFF
+0x101c2c444  LDP             X29, X30, [SP,#0x30+var_10]
+0x101c2c448  LDP             X20, X19, [SP,#0x30+var_20]
+0x101c2c44c  LDP             X22, X21, [SP+0x30+var_30],#0x30
+0x101c2c450  RET
+0x101c2c454  STRB            WZR, [X21,#0x1A1] <<<
+0x101c2c458  B               loc_101C2C4E0
+0x101c2c45c  LDR             W8, [X22,#4]
+0x101c2c460  STR             W8, [X21,#0xF0]
+0x101c2c464  LDR             W8, [X22,#8]
+0x101c2c468  STR             W8, [X21,#0xF4]
+
+=== Context around 0x1005e8e24 ===
+0x1005e8e10  ADRL            X0, unk_102E62488
+0x1005e8e14  ADRL            X0, unk_102E62488
+0x1005e8e18  BL              _swift_getKeyPath
+0x1005e8e1c  MOV             X24, X0
+0x1005e8e20  MOV             W8, #1
+0x1005e8e24  STRB            W8, [X22,#0x1A1] <<<
+0x1005e8e28  MOV             X0, X21
+0x1005e8e2c  BL              _swift_retain
+0x1005e8e30  ADD             X0, X22, #0x1A1
+0x1005e8e34  MOV             X1, X21
+0x1005e8e38  MOV             X2, X23
+
+=== Context around 0x1005e175c ===
+0x1005e1748  ADRP            X8, #___stack_chk_guard_ptr@PAGE
+0x1005e174c  LDR             X8, [X8,#___stack_chk_guard_ptr@PAGEOFF]; ___stack_chk_guard
+0x1005e1750  LDR             X8, [X8]
+0x1005e1754  STR             X8, [SP,#0x30+var_30]
+0x1005e1758  STR             X20, [X22,#0x368]
+0x1005e175c  STRB            W0, [X22,#0x1A1] <<<
+0x1005e1760  MOV             X0, #0
+0x1005e1764  BL              _$s10Foundation4DateVMa; type metadata accessor for Date
+0x1005e1768  STR             X0, [X22,#0x370]
+0x1005e176c  LDUR            X8, [X0,#-8]
+0x1005e1770  STR             X8, [X22,#0x378]

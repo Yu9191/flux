@@ -1,0 +1,145 @@
+String at 0x1032f9e90: purchaseNotification
+String at 0x1032f9e70: isPurchaseShowed
+String at 0x1032f9eb0: com.flux.pref.sync
+String at 0x1032f9ed0: 开始刷新授权
+Raw at 0x1032f9e80: 
+Raw at 0x1032f9e90: purchaseNotification
+Raw at 0x1032f9ea0: tion
+Raw at 0x1032f9eb0: com.flux.pref.sync
+
+7758431 decoded: _bv
+
+=== Strings near 0x1032F9E.. ===
+  0x1032f9004: trailer
+  0x1032f9013: certification
+  0x1032f9021: privacy
+  0x1032f9029: display_numbers
+  0x1032f9039: allow_comments
+  0x1032f9048: sort_by
+  0x1032f9050: sort_how
+  0x1032f9064: item_count
+  0x1032f906f: comment_count
+  0x1032f907d: likes
+  0x1032f9083: person
+  0x1032f908f: Jellyfin
+  0x1032f9098: Album
+  0x1032f909e: AlbumArtist
+  0x1032f90aa: Artist
+  0x1032f90b1: Budget
+  0x1032f90b8: CriticRating
+  0x1032f90c5: DatePlayed
+  0x1032f90d0: DateLastContentAdded
+  0x1032f90f0: SeriesDatePlayed
+  0x1032f9110: LastContentPremiereDate
+  0x1032f9128: Random
+  0x1032f912f: Revenue
+  0x1032f9137: Runtime
+  0x1032f9140: IsFavoriteOrLiked
+  0x1032f9152: Resolution
+  0x1032f915d: Ascending
+  0x1032f9167: Descending
+  0x1032f917c: apiHost
+  0x1032f9190: /Users/johnil/Work/git/Flux_Apple/Packages/Client/Sources/Client/FeedbackClient.
+  0x1032f91f0: uploadFile(fileURL:progressHandler:)
+  0x1032f9220: https://api.themoviedb.org
+  0x1032f9240: _TtC6Client14FeedbackClient
+  0x1032f9260: Invalid base64 string: 
+  0x1032f9280: /Users/johnil/Work/git/Flux_Apple/Packages/Client/Sources/Client/FluxClient.swif
+  0x1032f92e0: Decryption failed with status: 
+  0x1032f9300: Encrypted string: 
+  0x1032f9320: 上传文件失败: 
+  0x1032f9340: 文件上传成功: 
+  0x1032f9360: [REDACTED — API host /v1]
+  0x1032f9380: [REDACTED — TMDB proxy secret 常量名]
+  0x1032f93b0: [REDACTED — YTB decode 常量名]
+  0x1032f93d0: [REDACTED — trailer host]
+  0x1032f93f0: [REDACTED — telegram inviter host]
+  0x1032f9430: [REDACTED — API host]
+  0x1032f9450: originalTransactionId
+  0x1032f9470: allTransactionIds
+  0x1032f9490: /share/upload/config
+  0x1032f94b0: /share/upload/avatar
+  0x1032f94d0: /share/upload/image
+  0x1032f94f0: /share/check-slug
+  0x1032f9510: /share/agreement
+  0x1032f9530: /purchase/system/detail
+  0x1032f9550: /danmu/downloadSubtitles
+  0x1032f9570: /danmu/subtitles
+  0x1032f9590: /feedback/submit
+  0x1032f95b0: /feedback/upload/signature
+  0x1032f95d0: /referral/invite-code/product
+  0x1032f95f0: /purchase/iap/binding-type
+  0x1032f9610: /purchase/iap/subscription
+  0x1032f9630: /purchase/iap/unbind
+  0x1032f9650: /purchase/iap/bind
+  0x1032f9670: /purchase/products
+  0x1032f9690: /purchase/system/hitReport
+  0x1032f96b0: /purchase/system/info
+  0x1032f96d0: /purchase/iap/ping
+  0x1032f96f0: /trakt/device/token
+  0x1032f9710: /onedrive/checkLogin
+  0x1032f9730: /onedrive/devicecode
+  0x1032f9750: /onedrive/getToken
+  0x1032f9770: /115/updateToken
+  0x1032f9790: /purchase/testflight/invite
+  0x1032f97b0: /user/token_usage
+  0x1032f97d0: /purchase/discount
+  0x1032f97f0: /scrape/custom_mapping
+  0x1032f9810: /user/refreshToken
+  0x1032f9830: setupWith icloudId: 
+  0x1032f9850: setupWith(icloudId:deviceId:refresh:)
+  0x1032f9880: authContextUseId
+  0x1032f98a0: _TtC6Client10FluxClient
+  0x1032f98b8: $defaultActor
+  0x1032f98c7: icloudId
+  0x1032f98d0: deviceId
+  0x1032f98e5: cancellbles
+  0x1032f9900: load auth context error: 
+  0x1032f9920: validAuthContext()
+  0x1032f9940: failed to bind to original transaction: 
+  0x1032f9970: /Users/johnil/Work/git/Flux_Apple/Packages/Client/Sources/Client/ForwardPurchase
+  0x1032f99d0: 操作失败，未知错误
+  0x1032f99f0: 请求刷新授权: oid:
+  0x1032f9a10: 仅可绑定一个 iCloud 账号，请先解绑现有账号。
+  0x1032f9a50: 绑定设备已满，请先解绑其他设备。
+  0x1032f9a90: 没有找到收据，你没有权限进行该操作。
+  0x1032f9ad0: Failed to verify transactions: 
+  0x1032f9af0: unbind(iCloudId:deviceId:)
+  0x1032f9b10: checkVerified(_:)
+  0x1032f9b30: load transationId error: 
+  0x1032f9b50: loadTransationId()
+  0x1032f9b70: Database config integrity check failed, corrupted index
+  0x1032f9bb0: checkPurcahse(ignoreCache:)
+  0x1032f9bd0: PRO 限时免费试用中
+  0x1032f9bf0: 解锁 4K杜比画面、AI 识别、空间音频等超多功能
+  0x1032f9c30: 已永久解锁，保持更新，第一时间体验最新功能。
+  0x1032f9c80: 感谢你的早期支持，我们一起成长。
+  0x1032f9cc0: KeyValue table migration failed, missing required entries
+  0x1032f9d00: setupStateWithPurchase()
+  0x1032f9d20: _TtC6Client22ForwardPurchasesCenter
+  0x1032f9d50: transactionUpdateTask
+  0x1032f9d70: _canPurchaseLifeTime
+  0x1032f9d85: _proTitle
+  0x1032f9d8f: _proSubTitle
+  0x1032f9d9c: _countdownTitle
+  0x1032f9dac: _inviteCode
+  0x1032f9db8: timer
+  0x1032f9dbe: spicalOfferItem
+  0x1032f9dce: discountEndTime
+  0x1032f9dde: _isPurchasing
+  0x1032f9df0: _isPurchaseSuccess
+  0x1032f9e10: _purchaseFailedMessage
+  0x1032f9e30: _isPurchaseFailed
+  0x1032f9e50: _originalTransationId
+  0x1032f9e70: isPurchaseShowed
+  0x1032f9e90: purchaseNotification
+  0x1032f9eb0: com.flux.pref.sync
+  0x1032f9ed0: 开始刷新授权
+  0x1032f9ef0: 连续验证失败 
+  0x1032f9f10:  次，清除授权缓存
+  0x1032f9f30: 验证授权完成: 
+  0x1032f9f50: Verified transaction for product: 
+  0x1032f9f80: listenForTransactionUpdates()
+  0x1032f9fa0: Failed to verify transaction: 
+  0x1032f9fc0: refresh preload error 
+  0x1032f9fe0: /Users/johnil/Work/git/Flux_Apple/Packages/Client/Sources/Client/ForwardSystemIn
